@@ -1,0 +1,4 @@
+# QtAndroidProjects
+Qt Android Projects
+
+
