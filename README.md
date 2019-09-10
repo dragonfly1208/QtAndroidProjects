@@ -1,4 +1,4 @@
 # QtAndroidProjects
-Qt Android Projects
+Qt invoke Android File Manager
 
 
